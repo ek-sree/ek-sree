@@ -1,4 +1,4 @@
-### Hi there, I'm Sreehari E K
+### Hi there, I'm Sreehari E K 👋
 
 I'm a passionate Full Stack Developer with expertise in building robust applications. Here's a quick overview of my skills:
 
