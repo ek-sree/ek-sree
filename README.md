@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there ,I'm Sreehari E K👋
 
-<!--
-**ek-sree/ek-sree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer with expertise in building robust applications. Here's a quick overview of my skills:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+MongoDB: Efficient in designing and managing NoSQL databases.
+Node.js: Proficient in backend development using Node.js.
+UI/UX: Skilled in creating intuitive and visually appealing user interfaces.
+
+🌐 LinkedIn
+Connect with me on LinkedIn to stay updated on my professional journey.
+
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions!
