@@ -4,9 +4,9 @@ I'm a passionate Full Stack Developer with expertise in building robust applicat
 
 
 💻 Skills
-MongoDB: Efficient in designing and managing NoSQL databases.
-Node.js: Proficient in backend development using Node.js.
-UI/UX: Skilled in creating intuitive and visually appealing user interfaces.
+- MongoDB: Efficient in designing and managing NoSQL databases.
+- Node.js: Proficient in backend development using Node.js.
+- UI/UX: Skilled in creating intuitive and visually appealing user interfaces.
 
 🌐 LinkedIn
 Connect with me on LinkedIn to stay updated on my professional journey.
