@@ -11,6 +11,6 @@ I'm a passionate Full Stack Developer with expertise in building robust applicat
 
 
 🌐 LinkedIn
-Connect with me on [LinkedIn]{https://www.linkedin.com/in/sreehari-ek?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app} to stay updated on my professional journey.
+Connect with me on [LinkedIn]{"https://www.linkedin.com/in/sreehari-ek?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"} to stay updated on my professional journey.
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions!
