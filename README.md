@@ -11,7 +11,7 @@ I'm a passionate Full Stack Developer with expertise in building robust applicat
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/[![image](https://github.com/user-attachments/assets/249fc378-f772-49f3-913c-78e07314064f)](https://uxwing.com/nextjs-icon/)"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/379d8a6e74ef1f6781e10f7c2a1c560e53b58c64/topics/nextjs/nextjs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
@@ -40,6 +40,10 @@ I'm a passionate Full Stack Developer with expertise in building robust applicat
 
 🌐 LinkedIn
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/sreehari-ek?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app") to stay updated on my professional journey.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/sreehari-ek?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) to stay updated on my professional journey.
+
+🌐 Portfolio
+
+Visit my [Portfolio Website](https://sreehariek.com) to learn more about my projects and connect with me.
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions!
