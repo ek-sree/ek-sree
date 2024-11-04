@@ -11,7 +11,7 @@ I'm a passionate Full Stack Developer with expertise in building robust applicat
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/![image](https://github.com/user-attachments/assets/249fc378-f772-49f3-913c-78e07314064f)"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/[![image](https://github.com/user-attachments/assets/249fc378-f772-49f3-913c-78e07314064f)](https://uxwing.com/nextjs-icon/)"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
